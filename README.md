@@ -34,3 +34,5 @@ print("Hello, world!")
 | Wiersz 3, kolumna 1 | Wiersz 3, kolumna 2 | Wiersz 3, kolumna 3 |
 
 ![piesek](/Desktop/isi/narzedzia_informatyczne_przedmiot/narzedzia_informatyczne/animals/dog.jfif)
+
+![kotek](/Desktop/isi/narzedzia_informatyczne_przedmiot/narzedzia_informatyczne/animals/cat.jpeg)
