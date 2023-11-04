@@ -1,17 +1,28 @@
-# narzedzia_informatyczne
+# Narzędzia informatyczne
+
 Jest to prywatne repozytorium stworzone na potrzeby przedmiotu "narzędzia informatyczne" w roku 23/24.
 
-W tym pliku README jak rozumiem jest przestrzeń na uwagi co do zadań, całego projektu, etc.
+## Link do zadań
 
-Należy dodać: zwykły tekst, link, listę elementów numerowaną i nienumerowaną, nagłówki różnej wielkości, kod z wykorzystaniem bloku kodu z kolorowaniem składni (Syntax highlighting) – może to być zwykłe 'Hello world!' w dowolnym języku i tabelę.
+Oto link do drugiego zestawu zadań: [zadania2](https://home.agh.edu.pl/~pawljmlo/didactics/tools/2023/2)
 
-https://home.agh.edu.pl/~pawljmlo/didactics/tools/2023/2 - link do zadań
+## Listy
 
-1. Narzędzia informatyczne
-2. Systemy unixowe
-3. programowanie
+### przedmioty informatyczne
 
- - algebra
- - analiza
- - logika
+- narzędzia informatyczne
+- podstawy programowania
+- systemy unixowe
 
+### przedmioty matematyczne
+
+1. algebra
+2. analiza
+3. logika
+
+## Nagłówki
+
+##### Blok Kodu z Kolorowaniem Składni
+
+```python
+print("Hello, world!")
