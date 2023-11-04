@@ -33,4 +33,4 @@ print("Hello, world!")
 | Wiersz 2, kolumna 1 | Wiersz 2, kolumna 2 | Wiersz 2, kolumna 3 |
 | Wiersz 3, kolumna 1 | Wiersz 3, kolumna 2 | Wiersz 3, kolumna 3 |
 
-![piesek](/c/Users/dudki/Desktop/isi/narzedzia_informatyczne_przedmiot/narzedzia_informatyczne/animals/dog.jfif)
+![piesek](https://www.zooplus.pl/magazyn/wp-content/uploads/2021/04/dog-niemiecki.jpg)
