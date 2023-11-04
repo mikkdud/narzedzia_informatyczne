@@ -35,4 +35,6 @@ print("Hello, world!")
 
 ![piesek](/Desktop/isi/narzedzia_informatyczne_przedmiot/narzedzia_informatyczne/animals/dog.jfif)
 
-![kotek](/Desktop/isi/narzedzia_informatyczne_przedmiot/narzedzia_informatyczne/animals/cat.jpeg)
+![kotek](/Desktop/isi/narzedzia_informatyczne_przedmiot/narzedzia_informatyczne/animals/cat.jfif)
+
+Jest to zdjęcie kotka
