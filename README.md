@@ -26,3 +26,10 @@ Oto link do drugiego zestawu zadań: [zadania2](https://home.agh.edu.pl/~pawljml
 
 ```python
 print("Hello, world!")
+```
+| Nagłówek 1  | Nagłówek 2  | Nagłówek 3  |
+|-------------|-------------|-------------|
+| Wiersz 1, kolumna 1 | Wiersz 1, kolumna 2 | Wiersz 1, kolumna 3 |
+| Wiersz 2, kolumna 1 | Wiersz 2, kolumna 2 | Wiersz 2, kolumna 3 |
+| Wiersz 3, kolumna 1 | Wiersz 3, kolumna 2 | Wiersz 3, kolumna 3 |
+
