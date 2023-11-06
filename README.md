@@ -38,7 +38,6 @@ print("Hello, world!")
 <<<<<<< HEAD
 ![kotek](animals/cat.jfif)
 =======
-![kotek](/Desktop/isi/narzedzia_informatyczne_przedmiot/narzedzia_informatyczne/animals/cat.jfif)
->>>>>>> 85b5bcdac19ee68bea30692de863b8c7be93bb4a
+
 
 Jest to zdjęcie kotka
